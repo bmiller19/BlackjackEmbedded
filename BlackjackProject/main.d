@@ -1,0 +1,12 @@
+.\main.o: main.c
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\main.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.4.0\Device\Include\LPC17xx.H
+.\main.o: C:\Keil_v5\ARM\Pack\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\main.o: C:\Keil_v5\ARM\Pack\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\main.o: C:\Keil_v5\ARM\Pack\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\main.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.4.0\Device\Include\system_LPC17xx.h
+.\main.o: GLCD.h
+.\main.o: ADC.h
